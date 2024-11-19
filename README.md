@@ -3,7 +3,6 @@
 ###
 
 <img align="right" height="150" src="https://i.ibb.co/5nWVhJr/profile-pic-2-Photoroom-2.png"  />
-<br clear="both">
 
 ###
 
